@@ -1,1 +1,1 @@
-const verduras = ["tomate","lechuga"]
+const verduras = ["tomate","lechuga","remolacha"]
